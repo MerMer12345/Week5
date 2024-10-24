@@ -10,3 +10,5 @@ print("Datatypes")
 print(df.dtypes)
 df['datestamp'] = pd.to_datetime(df['datestamp'], dayfirst=False)
 print(df.dtypes)
+
+#look in Matplotlib.py for the rest of the Exercise
